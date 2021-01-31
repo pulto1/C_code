@@ -1,0 +1,10 @@
+file:e:\code\c_code\20-11-15\20-11-15\test.c line:17 date:Jan 31 2021 time:11:24:01: 1
+file:e:\code\c_code\20-11-15\20-11-15\test.c line:17 date:Jan 31 2021 time:11:24:01: 2
+file:e:\code\c_code\20-11-15\20-11-15\test.c line:17 date:Jan 31 2021 time:11:24:01: 3
+file:e:\code\c_code\20-11-15\20-11-15\test.c line:17 date:Jan 31 2021 time:11:24:01: 4
+file:e:\code\c_code\20-11-15\20-11-15\test.c line:17 date:Jan 31 2021 time:11:24:01: 5
+file:e:\code\c_code\20-11-15\20-11-15\test.c line:17 date:Jan 31 2021 time:11:24:01: 6
+file:e:\code\c_code\20-11-15\20-11-15\test.c line:17 date:Jan 31 2021 time:11:24:01: 7
+file:e:\code\c_code\20-11-15\20-11-15\test.c line:17 date:Jan 31 2021 time:11:24:01: 8
+file:e:\code\c_code\20-11-15\20-11-15\test.c line:17 date:Jan 31 2021 time:11:24:01: 9
+file:e:\code\c_code\20-11-15\20-11-15\test.c line:17 date:Jan 31 2021 time:11:24:01: 10
